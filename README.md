@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-aniketagarwalla37@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aniketagarwalla37@gmail.com)](mailto:aniketagarwalla37@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ani37-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ani37/)](https://www.linkedin.com/in/ani37/) [![Github Badge](https://img.shields.io/badge/-ani37-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ani37/)](https://www.github.com/ani37/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://ani37.github.io//)](https://ani37.github.io//) <p align='left'>CSE | NITS </p>
 
-<p align='left'> You can view my resume <a href='https://ani37.github.io/aniket_agarwalla_cv.pdf ' target=_blank><u>here</u>.</a></p>
-
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ani37 alt=ani37 /> </p>
 
